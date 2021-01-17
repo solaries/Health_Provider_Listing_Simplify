@@ -1,0 +1,1 @@
+This utilitie returns an object from the information received from the web service based on the parameters passed to each of the methods called. Each menthod would flag property in the object based on the parrametets passed to it, it would also return the object. a call to the "get" method will pull all the parameters that have been flagged and call the web service.
